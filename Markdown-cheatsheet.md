@@ -1,3 +1,7 @@
+# MARKDOWN un langage rapide et facile à lire.
+
+
+>Le Markdown est un langage de balisage inventé par **John Gruber** en 2004 permettant de formater du texte brut de manière simple >pour un rendu en HTML ou dans un autre format. [Guillaume BELFIORE](https://www.futura-sciences.com/tech/definitions/informatique-markdown-17135/).
 
 #Markdown Cheatsheet
 ## Qu'est-ce que Markdown ?
@@ -121,3 +125,44 @@ Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :
 > Citation d'un grand philosophe alcoolique
 
 > Citation d'un autre grand philosophe (mais sobre cette fois)
+
+### Création d'un tableau
+Il faut séparer les colonnes par des traits verticaux (|) et des deux-points :
+
+```
+  | Tables        | Are           | Cool  |
+  | ------------- |:-------------:| -----:|
+  |     cell      | cell          | cell  |
+  |     cell      | cell          | cell  |
+  |     cell      | cell          | cell  |
+```
+
+### Insertion de code
+Il faut entourer les lignes de codes avec 3 accents graves (`)
+**Ne pas mettre les parenthèses !**
+```
+  (```)
+  chaine = "Becode Power"
+  for lettre in chaine:
+    print(lettre)
+  (```)
+```
+
+### note de bas de page
+Syntaxe avec les crochets et l'accent circonflexe.
+```
+  Voir la note en bas de page. [^1]
+  [^1]: Note de bas de page.
+```
+
+### créer un ID (dans ce cas sur un heading)
+Syntaxe avec {} et #
+```
+### My Great Heading {#custom-id}
+```
+
+### texte barré
+Avec le signe ~
+```
+~~La terre est plate.~~
+```
