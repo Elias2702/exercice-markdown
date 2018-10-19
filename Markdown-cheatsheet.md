@@ -131,8 +131,7 @@ Il faut séparer les colonnes par des traits verticaux (|) et des deux-points :
 ```
 
 ### Insertion de code
-Il faut entourer les lignes de codes avec 3 accents graves (`)
-**Ne pas mettre les parenthèses !**
+Il faut entourer les lignes de codes avec 3 accents graves
 
     ```
     chaine = "Becode Power"
@@ -158,9 +157,9 @@ Syntaxe avec {} et #
 Avec le signe ~
 ```
 ~~La terre est plate.~~
-```
 
-### Couleur Synthaxique
+
+### Couleur Syntaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
 2. Ajouter le nom du language dans lequel vous allez rédiger votre code
