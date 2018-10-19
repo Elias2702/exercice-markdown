@@ -1,4 +1,4 @@
-##Couleur Synthaxique
+## Couleur Synthaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
 2. Ajouter le nom du language dans lequel vous allez rédiger votre code
