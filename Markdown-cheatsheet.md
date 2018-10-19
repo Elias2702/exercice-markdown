@@ -8,7 +8,7 @@ Un document balisé par Markdown peut être converti en HTML ou en autres format
 ___
 ## Syntaxe
 ### Les titres
-Pour réaliser des titre on précède le texte visé de dièse (#) comme suit:
+Pour réaliser des titres, on précède le texte visé de dièse (#) comme suit:
 
     # Le Titre souhaité
 
