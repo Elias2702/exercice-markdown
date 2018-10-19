@@ -40,35 +40,42 @@ Pour mettre du texte en italique, on l'entoure d'un underscore (_) comme suit:
     _Texte en italique_
 
 ### Création d'un tableau
-Il faut séparer les colonnes par des traits verticaux (|) et des deux-points (:) :
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-|     cell      | cell          | cell  |
-|     cell      | cell          | cell  |
-|     cell      | cell          | cell  |
-
-### Insertion de code
-Il faut utilier l'accent grave (`)
+Il faut séparer les colonnes par des traits verticaux (|) et des deux-points :
 
 ```
-chaine = "Becode Power"
-for lettre in chaine:
+  | Tables        | Are           | Cool  |
+  | ------------- |:-------------:| -----:|
+  |     cell      | cell          | cell  |
+  |     cell      | cell          | cell  |
+  |     cell      | cell          | cell  |
+```
+
+### Insertion de code
+Il faut entourer les lignes de codes avec 3 accents graves (`)
+**Ne pas mettre les parenthèses !**
+```
+  (```)
+  chaine = "Becode Power"
+  for lettre in chaine:
     print(lettre)
+  (```)
 ```
 
 ### note de bas de page
 Syntaxe avec les crochets et l'accent circonflexe.
-
-Voir la note en bas de page. [^1]
-[^1]: Note de bas de page.
+```
+  Voir la note en bas de page. [^1]
+  [^1]: Note de bas de page.
+```
 
 ### créer un ID (dans ce cas sur un heading)
 Syntaxe avec {} et #
-
-(###) My Great Heading {#custom-id} (j'ai mis les dièses entre parenthèses pour ne pas créer un H3 dans le markdown).
+```
+### My Great Heading {#custom-id}
+```
 
 ### texte barré
 Avec le signe ~
-
+```
 ~~La terre est plate.~~
+```
