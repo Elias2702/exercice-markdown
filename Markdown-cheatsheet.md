@@ -193,3 +193,5 @@ Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents,
 >:trollface:
 
 Pour obtenir la liste complète des emoji disponnibles sur gitHub, c'est [**par ici**](https://gist.github.com/rxaviers/7360908)!
+
+![Un travail d'équipe](https://images.unsplash.com/photo-1525422847952-7f91db09a364?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ce6622924dae3b9be067e1778a6b8707&w=1000&q=80)
