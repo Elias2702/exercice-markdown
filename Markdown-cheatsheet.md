@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Couleur Synthaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
@@ -32,7 +32,7 @@ Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents,
 >:trollface:
 
 Pour obtenir la liste complète des emoji disponnibles sur gitHub, c'est [**par ici**](https://gist.github.com/rxaviers/7360908)!
-=======
+
 ### Liens & Images
 
 ```
