@@ -109,16 +109,8 @@ Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
 On peut aussi la checker en cliquant dessus dans la visualisation du markdown.
 
 ### Citations
->Mmmbop, ba duba dop
-Ba du bop, ba duba dop
-Ba du bop, ba duba dop
-Ba du, yeah-e-yeah
-Mmmbop, ba duba dop
-Ba du bop, ba duba dop
-Ba du bop, ba duba dop
-Ba du, yeah-e-yeah
 
-**YeeeeeeeeeeeHAA vous souhaitez appliquer une citation, vous devrez procéder comme ceci :**
+**Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :**
 
 ```
 > Citation d'un grand philosophe alcoolique
@@ -143,20 +135,20 @@ Il faut séparer les colonnes par des traits verticaux (|) et des deux-points :
 ### Insertion de code
 Il faut entourer les lignes de codes avec 3 accents graves (`)
 **Ne pas mettre les parenthèses !**
-```
-  (```)
-  chaine = "Becode Power"
-  for lettre in chaine:
-    print(lettre)
-  (```)
-```
 
+    ```
+    chaine = "Becode Power"
+    for lettre in chaine:
+    print(lettre)
+    ```
 ### Note de bas de page
 Syntaxe avec les crochets et l'accent circonflexe.
+
+Voir la note en bas de page. [^1]
 ```
-  Voir la note en bas de page. [^1]
-  [^1]: Note de bas de page.
-```
+
+[^1]: Note de bas de page.
+
 
 ### Créer un ID (dans ce cas sur un heading)
 Syntaxe avec {} et #
