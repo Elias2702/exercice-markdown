@@ -82,6 +82,32 @@ Vous pouvez également appliquer des listes numérotées, pour cela, rien de plu
 2. Numéro 2
 3. Numéro 3
 
+Il est aussi possible de faire une liste de tâches:
+
+```   
+* [ ] Tâche1
+* [ ] Tâche2
+* [ ] Tâche3
+```
+
+* [ ] Tâche1
+* [ ] Tâche2
+* [ ] Tâche3
+
+Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
+
+```   
+* [x] Tâche1
+* [x] Tâche2
+* [x] Tâche3
+```
+
+* [x] Tâche1
+* [x] Tâche2
+* [x] Tâche3
+
+On peut aussi la checker en cliquant dessus dans la visualisation du markdown.
+
 ### Citations
 
 Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :
