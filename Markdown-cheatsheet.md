@@ -167,6 +167,7 @@ Avec le signe ~
 ```
 ~~La terre est plate.~~
 ```
+
 ### Couleur Synthaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
