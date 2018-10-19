@@ -17,3 +17,17 @@
 ```javascript
 console.log('Hello World');
 ```
+## Emoji
+
+Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents, il suffit d'inscrire la commande correspondante:
+
+**Exemple:**
+```
+:trollface:
+```
+
+**Résultat obtenu:**
+
+>:trollface:
+
+Pour obtenir la liste complète des emoji disponnibles sur gitHub, c'est [**par ici**](https://gist.github.com/rxaviers/7360908)!
