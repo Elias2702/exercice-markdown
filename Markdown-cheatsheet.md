@@ -7,6 +7,7 @@
 
 ![Texte image](http://www.example.com/files/sample.png)
 ```
+
 ### Liste à puce
 
 Pour créé une liste à puce, il suffit d'ajouter un astérisque en début de ligne.
@@ -15,6 +16,10 @@ Pour créé une liste à puce, il suffit d'ajouter un astérisque en début de l
 * Example 2
 * Example 3
 ```
+
+* Example 1
+* Example 2
+* Example 3
 
 Vous pouvez également créé des sous-puces de cette manière.
 
@@ -25,6 +30,11 @@ Vous pouvez également créé des sous-puces de cette manière.
       * Example 2.2
 * Example 3
 ```
+* Example 1
+* Example 2
+    * Example 2.1
+    * Example 2.2
+* Example 3
 
 Vous pouvez également appliquer des listes numérotées, pour cela, rien de plus simple :
 
@@ -33,6 +43,9 @@ Vous pouvez également appliquer des listes numérotées, pour cela, rien de plu
 2. Numéro 2
 3. Numéro 3
 ```
+1. Numéro 1
+2. Numéro 2
+3. Numéro 3
 
 ### Citations
 
@@ -42,3 +55,7 @@ Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :
 > Citation d'un grand philosophe alcoolique
 > Citation d'un autre grand philosophe (mais sobre cette fois)
 ```
+
+> Citation d'un grand philosophe alcoolique
+
+> Citation d'un autre grand philosophe (mais sobre cette fois)
