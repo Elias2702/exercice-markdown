@@ -1,4 +1,4 @@
-# Liens & Images
+### Liens & Images
 
 ```
 [Texte du lien](http://url.com/ "Title")
@@ -7,10 +7,7 @@
 
 ![Texte image](http://www.example.com/files/sample.png)
 ```
-
-# LISTE
-
-## Liste à puce
+### Liste à puce
 
 Pour créé une liste à puce, il suffit d'ajouter un astérisque en début de ligne.
 ```
@@ -37,7 +34,7 @@ Vous pouvez également appliquer des listes numérotées, pour cela, rien de plu
 3. Numéro 3
 ```
 
-# Citations
+### Citations
 
 Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :
 
