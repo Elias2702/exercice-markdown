@@ -4,8 +4,6 @@
 
 >Le Markdown est un langage de balisage inventé par **John Gruber** en 2004 permettant de formater du texte brut de manière simple >pour un rendu en HTML ou dans un autre format. [Guillaume BELFIORE](https://www.futura-sciences.com/tech/definitions/informatique-markdown-17135/).
 
-
-=======
 #Markdown Cheatsheet
 ## Qu'est-ce que Markdown ?
 Selon Wikipedia :
@@ -40,4 +38,37 @@ Pour mettre en gras du text il suffit de l'entourer par 2 astérisques (**) comm
 Pour mettre du texte en italique, on l'entoure d'un underscore (_) comme suit:
 
     _Texte en italique_
->>>>>>> dev
+
+### Création d'un tableau
+Il faut séparer les colonnes par des traits verticaux (|) et des deux-points (:) :
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+|     cell      | cell          | cell  |
+|     cell      | cell          | cell  |
+|     cell      | cell          | cell  |
+
+### Insertion de code
+Il faut utilier l'accent grave (`)
+
+```
+chaine = "Becode Power"
+for lettre in chaine:
+    print(lettre)
+```
+
+### note de bas de page
+Syntaxe avec les crochets et l'accent circonflexe.
+
+Voir la note en bas de page. [^1]
+[^1]: Note de bas de page.
+
+### créer un ID (dans ce cas sur un heading)
+Syntaxe avec {} et #
+
+(###) My Great Heading {#custom-id} (j'ai mis les dièses entre parenthèses pour ne pas créer un H3 dans le markdown).
+
+### texte barré
+Avec le signe ~
+
+~~La terre est plate.~~
