@@ -106,8 +106,6 @@ Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
 * [x] Tâche2
 * [x] Tâche3
 
-On peut aussi la checker en cliquant dessus dans la visualisation du markdown.
-
 ### Citations
 >Mmmbop, ba duba dop
 Ba du bop, ba duba dop
