@@ -106,8 +106,6 @@ Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
 * [x] Tâche2
 * [x] Tâche3
 
-On peut aussi la checker en cliquant dessus dans la visualisation du markdown.
-
 ### Citations
 
 **Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :**
@@ -161,6 +159,7 @@ Avec le signe ~
 ```
 ~~La terre est plate.~~
 ```
+
 ### Couleur Synthaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
