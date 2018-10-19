@@ -109,8 +109,16 @@ Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
 On peut aussi la checker en cliquant dessus dans la visualisation du markdown.
 
 ### Citations
+>Mmmbop, ba duba dop
+Ba du bop, ba duba dop
+Ba du bop, ba duba dop
+Ba du, yeah-e-yeah
+Mmmbop, ba duba dop
+Ba du bop, ba duba dop
+Ba du bop, ba duba dop
+Ba du, yeah-e-yeah
 
-Si vous souhaitez appliquer une citation, vous devrez procéder comme ceci :
+**YeeeeeeeeeeeHAA vous souhaitez appliquer une citation, vous devrez procéder comme ceci :**
 
 ```
 > Citation d'un grand philosophe alcoolique
@@ -143,25 +151,25 @@ Il faut entourer les lignes de codes avec 3 accents graves (`)
   (```)
 ```
 
-### note de bas de page
+### Note de bas de page
 Syntaxe avec les crochets et l'accent circonflexe.
 ```
   Voir la note en bas de page. [^1]
   [^1]: Note de bas de page.
 ```
 
-### créer un ID (dans ce cas sur un heading)
+### Créer un ID (dans ce cas sur un heading)
 Syntaxe avec {} et #
 ```
 ### My Great Heading {#custom-id}
 ```
 
-### texte barré
+### Texte barré
 Avec le signe ~
 ```
 ~~La terre est plate.~~
 ```
-## Couleur Synthaxique
+### Couleur Synthaxique
 **Pour Obtenir une ligne de code colorée:**
 1. Insérer trois accents grave
 2. Ajouter le nom du language dans lequel vous allez rédiger votre code
@@ -180,7 +188,7 @@ Avec le signe ~
 ```javascript
 console.log('Hello World');
 ```
-## Emoji
+### Emoji
 
 Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents, il suffit d'inscrire la commande correspondante:
 
