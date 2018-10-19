@@ -6,7 +6,7 @@
 4. Inscrire le code à afficher
 5. Fermer avec trois accents grave
 
-**Exemple**
+**Exemple:**
 
     ```javascript
     console.log('Hello World');
