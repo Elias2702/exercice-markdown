@@ -8,14 +8,14 @@ Un document balisé par Markdown peut être converti en HTML ou en autres format
 ___
 ## Syntaxe
 ### Les titres
-Pour réaliser des titres, on précède le texte visé de dièse (#) comme suit:
+Pour réaliser des titres, on précède le texte visé de dièse (#) comme suit :
 
     # Le Titre souhaité
 
 On peut changer l'importance d'un titre en ajoutant des dièses. Ainsi 1 '#' fera 1 h1, 2 fera 1 h2 etc...
 
 ### Les paragraphes
-Pour faire différents paragraphes il suffit de laisser au moins un ligne vide entre 2 autre comme suit:
+Pour faire différents paragraphes il suffit de laisser au moins un ligne vide entre 2 autre comme suit :
 
     ``` markdown
     Un premier paragraphe
@@ -24,12 +24,12 @@ Pour faire différents paragraphes il suffit de laisser au moins un ligne vide e
     ```
 
 ### Mise en gras
-Pour mettre en gras du text il suffit de l'entourer par 2 astérisques (**) comme suit:
+Pour mettre en gras du text il suffit de l'entourer par 2 astérisques (**) comme suit :
 
     **le texte à mettre en gras**
 
 ### Mise en italique
-Pour mettre du texte en italique, on l'entoure d'un underscore (_) comme suit:
+Pour mettre du texte en italique, on l'entoure d'un underscore (_) comme suit :
 
     _Texte en italique_
 
@@ -45,7 +45,7 @@ Pour mettre du texte en italique, on l'entoure d'un underscore (_) comme suit:
 
 ### Liste à puce
 
-Pour créé une liste à puce, il suffit d'ajouter un astérisque en début de ligne.
+Pour créer une liste à puce, il suffit d'ajouter un astérisque en début de ligne.
 ```
 * Example 1
 * Example 2
@@ -56,7 +56,7 @@ Pour créé une liste à puce, il suffit d'ajouter un astérisque en début de l
 * Example 2
 * Example 3
 
-Vous pouvez également créé des sous-puces de cette manière.
+Vous pouvez également créer des sous-puces de cette manière.
 
 ```
 * Example 1
@@ -82,7 +82,7 @@ Vous pouvez également appliquer des listes numérotées, pour cela, rien de plu
 2. Numéro 2
 3. Numéro 3
 
-Il est aussi possible de faire une liste de tâches:
+Il est aussi possible de faire une liste de tâches :
 
 ```   
 * [ ] Tâche1
@@ -94,7 +94,7 @@ Il est aussi possible de faire une liste de tâches:
 * [ ] Tâche2
 * [ ] Tâche3
 
-Pour checker une tâche il siffit de mettre un 'x' entre les crochets:
+Pour checker une tâche il suffit de mettre un 'x' entre les crochets :
 
 ```   
 * [x] Tâche1
@@ -131,7 +131,7 @@ Il faut séparer les colonnes par des traits verticaux (|) et des deux-points :
 ```
 
 ### Insertion de code
-Il faut entourer les lignes de codes avec 3 accents graves
+Il faut entourer les lignes de codes avec 3 accents graves :
 
     ```
     chaine = "Becode Power"
@@ -160,34 +160,34 @@ Avec le signe ~
 
 
 ### Couleur Syntaxique
-**Pour Obtenir une ligne de code colorée:**
+**Pour Obtenir une ligne de code colorée :**
 1. Insérer trois accents grave
 2. Ajouter le nom du language dans lequel vous allez rédiger votre code
 3. Passer à la ligne
 4. Inscrire le code à afficher
 5. Fermer avec trois accents grave
 
-**Exemple:**
+**Exemple :**
 
     ```javascript
     console.log('Hello World');
     ```
 
-**Résultat obtenu:**
+**Résultat obtenu :**
 
 ```javascript
 console.log('Hello World');
 ```
 ### Emoji
 
-Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents, il suffit d'inscrire la commande correspondante:
+Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents, il suffit d'inscrire la commande correspondante :
 
-**Exemple:**
+**Exemple :**
 ```
 :trollface:
 ```
 
-**Résultat obtenu:**
+**Résultat obtenu :**
 
 >:trollface:
 
