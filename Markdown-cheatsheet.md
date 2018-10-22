@@ -193,4 +193,26 @@ Si d'aventure il vous prendrait l'envie d'ajouter des emojis dans vos documents,
 
 Pour obtenir la liste complète des emoji disponnibles sur gitHub, c'est [**par ici**](https://gist.github.com/rxaviers/7360908)!
 
+## Insérer une image statique
+Pour insérer une image, rien de plus simple : 
+1. Commencer la ligne de code avec un point d'exclamation '!'
+2. Entre [ ] insérer le titre que vous désirez pour votre image
+3. Entre parenthèse ( ) ajouter l'url de l'image
+
+**Exemple :**
+
+    ![Titre de l'image](url de l'image)  
+
 ![Un travail d'équipe](https://images.unsplash.com/photo-1525422847952-7f91db09a364?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ce6622924dae3b9be067e1778a6b8707&w=1000&q=80)
+
+
+## Insérer un gif :
+
+Suivre les mêmes instructions que ci-dessus, veiller à disposer d'une url possédant l'extension du gif:
+
+**Exemple :**
+
+    ![Titre du gif](http://url-du-gif-qui-rox.gif)
+
+![Hackerman](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
+
