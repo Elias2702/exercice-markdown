@@ -11,6 +11,8 @@ ___
 Pour réaliser des titres, on précède le texte visé de dièse (#) comme suit :
 
     # Le Titre souhaité
+    ## Le sous-titre
+    ### Le sous-titre du sous-titre
 
 On peut changer l'importance d'un titre en ajoutant des dièses. Ainsi 1 '#' fera 1 h1, 2 fera 1 h2 etc...
 
